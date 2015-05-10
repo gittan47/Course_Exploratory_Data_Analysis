@@ -1,0 +1,3 @@
+I was unable to commit, add or whatever you call it the png files I had created with R
+So for this assignment I lost hours and hours on something that wasn't statistical data science or how to work with R.
+I'm very sorry for this. Github is too complicated to use for me. I hope there will be some kind of explanation on how to put imagefiles into the repository without using code or terminals or things like that.
