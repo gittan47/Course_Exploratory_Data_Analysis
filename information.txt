@@ -1,3 +1,9 @@
 I was unable to commit, add or whatever you call it the png files I had created with R
-So for this assignment I lost hours and hours on something that wasn't statistical data science or how to work with R.
-I'm very sorry for this. Github is too complicated to use for me. I hope there will be some kind of explanation on how to put imagefiles into the repository without using code or terminals or things like that.
+So for this assignment I lost hours and hours on something that wasn't statistical data
+science or how to work with R.
+I'm very sorry for this. Github is too complicated to use for me. I felt like in the beginning of the data and pc years,
+trying to figure out what magic words and numbers must be put where and when. A feeling of frustration and powerlessness that
+come back to me. When windows 3.1 came to me I was happy to use drag and drop, copy and paste possibilities and a graphic interface
+where you could see what was happening. With clearly visible save and ok buttons etc. Are we going backwards again? And why? Snobism?, power? or is it really necessary? 
+I hope there will be some kind of explanation on how to put imagefiles
+into the repository without using for me unknown code or hidden terminals or things like that.
