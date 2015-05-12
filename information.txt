@@ -8,3 +8,4 @@ where you could see what was happening. With clearly visible save and ok buttons
 Snobism?, power? or is it really necessary? 
 I hope there will be some kind of explanation on how to put imagefiles
 into the repository without using for me unknown code or hidden terminals or things like that.So I can focus on the purpose of this course which for me is to learn more about exploratory data analysis and how to do this with R.
+TODAY I GOT THE ADVICE TO USE TOURTOISEGIT AND IT WORKED! I'M SO HAPPY AGAIN.
